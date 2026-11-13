@@ -6,6 +6,28 @@ Read this reference for prestige historical drama, biography, long dialogue, con
 
 Film pacing is not the number of cuts. It is the rate at which the audience receives meaningful new information. A slow scene can remain compelling when gaze, blocking, cost, listener response, props, or social pressure keep changing. A fast-cut scene can still feel empty when every angle repeats the same information.
 
+## Audience experience before coverage
+
+For each decisive beat, establish internally what the audience knows, fears, and expects, then identify what changes. Choose acting, framing, duration, and sound to create that experience. Seeing who holds an object is not equivalent to anticipating its consequence. Avoid substituting extra gestures, angles, or camera motion for a change in pressure. Keep this planning outside the copy-ready prompt; express it through executable image and sound.
+
+A useful progression can be anticipation -> abrupt change -> sustained uncertainty -> chosen response -> unresolved standoff. This is an example, not a required sequence. Give the pivotal uncertainty time to register rather than automatically cutting to the next action. Pressure may come from a still frame or a quiet voice as effectively as from movement.
+
+### Preserve the spatial event that carries the emotion
+
+If a beat derives its force from approach, separation, contact, obstruction, or support, let the audience see the acting subject, affected person/object, changing distance, and immediate response together at the decisive instant. Do not cut to a frontal face just as the key spatial change occurs. A stable oblique relational shot or a continuous reframe can preserve both contact and its psychological result. Use close-ups around that event when they reveal a decision or consequence, not to hide missing causality.
+
+### Let the other person's response prove the effect
+
+Strength, persuasion, or resolve becomes legible through its effect on the partner. Different information should provoke different judgments: checking a material fact, searching for a rebuttal, noticing an exit, calculating a useful offer, or withholding an answer. Do not recycle the same frown for every reaction. A brief aborted response or restrained adjustment can show lost control without immediate panic or surrender. Allocate a close-up to the change that matters, not to every listener by quota.
+
+### Reveal evidence as a change in judgment
+
+An optional structure is claim -> initial listener recognition -> evidence revealed to the audience -> confirmed consequence in the listener -> new choice. A brief reaction before a crowd, object, or exterior reveal can build anticipation; a reaction after it shows why the reveal matters. A delegated check needs a clear signal, feasible route, return/confirmation, and receipt, but these can overlap ongoing dialogue. Do not require a messenger, whisper, or reaction sandwich in every scene. An expansive exterior should have a function beyond illustrating a noun, and its scale should not replace the central character's subsequent decision.
+
+### Allocate time by pressure, not evenly
+
+Compress repeated orientation, idle time, and minor transitions first. Let speech continue through feasible gestures or checks instead of giving every action a separate silent slot. Retain enough time to perceive a decisive approach, a changed judgment, or suspended danger. If the requested duration cannot hold clear speech and necessary events, simplify coverage or propose regrouping; do not claim a percentage reduction without recalculating the timeline. User-authorized speech segmentation should preserve wording and order, use complete thought units and independent audio-event offsets, and rejoin naturally rather than restart at each cut.
+
 ## Coverage by dramatic type
 
 ### Public confrontation
@@ -102,6 +124,16 @@ Design the full dramatic scene before applying generation-duration boundaries. A
 
 Use movement when a character has a reason to move: inspect stock, offer a seat, deliver medicine, or act on a decision. Do not send actors walking merely to animate dialogue. Likewise, cut to the listener while the speaker continues when the information changes the listener; do not wait automatically for the end of a line.
 
+### Design the outgoing image and incoming image together
+
+For consecutive groups in the same scene, establish the inherited state first: positions, posture, gaze target, object holder and acting hand, contact/distance, unfinished motion, current audio, and psychological progress (confirmed facts, concessions, suspicion, and chosen strategy). Identify the next opening speaker and framing when known; if unknown, leave a useful live exchange without inventing later dialogue or action.
+
+If the next group begins with a single of one speaker, prefer an outgoing image of the listener, a consequential witness, or a side two-shot. Avoid back-to-back near-identical speaking singles merely because a generation boundary occurs. A motivated same-subject continuation or an approved transition frame can be the better choice; do not force every group to end on a two-shot.
+
+The outgoing shot needs its own dramatic task: an appraisal, a hand stopping, a withheld reply, or attention returning to the other person. Dialogue may finish over that reaction as the same audio event. Leave a playable state for the next response, rather than making every group finish in settled silence. Do not add a pause or reaction duration that the exchange does not need.
+
+Track necessary hand changes and off-screen movement: who released an object, which hand now supports the body, who left, who returned, and where they stopped. Do not silently reset a lowered threat, concession, or confirmed fact in the next group; an escalation needs a visible cause. Check the final image against the next first image for composition, eyelines, contact and prop state, ongoing movement, sound, and judgment. Each cut should add information, pressure, response, or a changed relationship. Keep planning explanations outside the copy-ready prompt.
+
 ## Performance and feasible alternatives
 
 Describe what a person notices and what they try to accomplish. `Hearing the water grow louder, he looks for its source and instinctively protects the basket` gives the actor a reason to react. A sequence of unrelated frowns, blinks, and lip movements does not.
@@ -117,6 +149,18 @@ Give dialogue actors an immediate shared task when the scene supports one: prese
 Choose framing by what matters at that moment. A close-up can show the decisive contact; cut as the object is withdrawn and continue in a wider shot showing the examination and the others' response. Inserts remain optional, and user-approved close-ups override a project's earlier preference to avoid them.
 
 Keep simple shots brief once their information is legible. Allow complete exchanges, physical effort, or emotional progression enough time. Recheck cuts against the actual speech delivery: reaction images continue the same audio event, and pauses belong to the performance rather than to every new framing.
+
+### Reciprocal acting within dialogue
+
+Start with what the character wants from the other person: make them examine evidence, test whether they believe it, conceal uncertainty, or force a direct answer. Shape the beat as noticed stimulus -> purposeful response -> effect on the partner. Use one or two visible choices and allow incidental timing to remain natural. A speaker can register resistance and adjust the next thought while the listener is still reacting.
+
+Dignity, resolve, or composure describes intention and bearing, not a frozen body. Preserve an upright stance when appropriate while allowing natural head turns, a slight shoulder reorientation, a weight adjustment, or a look at a relevant object before renewed eye contact. Gestures address a person or object, then release when their purpose ends. Avoid obligatory movements on every sentence and repeated nodding, pointing, or busywork.
+
+In a side two-shot, let one person's action be received by the other: evidence is placed down, attention is withheld, then the listener leans to inspect it. A static camera can carry this evolving relationship. Quiet listening may remain still if the attention and response are legible; do not fill silence with compulsory fidgeting.
+
+For example, a listener starts handling a valuable object while the speaker explains evidence. The speaker notices the hand, returns attention to the listener's face, and makes the conclusion more direct; the listener's hand briefly stops before they respond. Adapt this pattern to the scene rather than copying the prop or gesture into every conversation.
+
+Review with dialogue hidden: can the audience still perceive observation, judgment, or response? If only mouths move, clarify the exchange objective and partner response rather than adding a catalogue of facial muscle instructions.
 
 ## Attention transfer in a continuous take
 
