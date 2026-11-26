@@ -1,4 +1,0 @@
-interface:
-  display_name: "人物·服装·道具设计"
-  short_description: "从剧本拆分人物、服装与道具，支持原创及史料参考，分项制作一致的视觉资产"
-  default_prompt: "使用 $film-character-costume-prop-design 分析我提供的剧本，先拆分主要人物、服装和关键道具清单，确认后再按选定的参考方式与风格制作。"
