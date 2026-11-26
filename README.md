@@ -85,6 +85,19 @@
 
 ## 在 Codex 中安装
 
+### 人物、服装与道具设计
+
+新增 [film-character-costume-prop-design](skills/film-character-costume-prop-design/SKILL.md)：从剧本拆分人物、服装和关键道具，支持原创设计、照片或史料参考，输出独立中文生图提示词或参考图。人物默认交付面部特写、正面、侧面和背面四视图；换装与年龄变化保留人物身份，并检查身体比例、站姿和服装结构的一致性。
+
+```text
+请使用 $skill-installer 安装这个 GitHub 仓库里的技能：
+https://github.com/flemin86/film-prompt-skills/tree/main/skills/film-character-costume-prop-design
+```
+
+使用时可直接说明：`使用 $film-character-costume-prop-design，按我提供的剧本与参考图，设计人物、服装和关键道具。`
+
+### 影视分镜提示词
+
 将以下内容发给 Codex：
 
 ```text
